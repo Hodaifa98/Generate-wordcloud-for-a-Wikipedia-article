@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+#Import required modules
 import sys
 import numpy as np
 from PIL import Image
