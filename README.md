@@ -6,3 +6,7 @@ You can specify a topic to search Wikipedia for. Then enter the color of the bac
 
 
 You can choose a specific background image for the wordcloud. It needs to be named: "background.png"
+
+
+## Usage
+```python generate_word_cloud_wikipedia.py```
